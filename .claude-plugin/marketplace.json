@@ -1,0 +1,38 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ari-marketplace",
+  "version": "0.1.0",
+  "description": "Arijit's personal Claude Code marketplace — reference and tooling plugins for the frameworks I work in.",
+  "owner": {
+    "name": "Arijit Gogoi",
+    "url": "https://github.com/arijit-gogoi"
+  },
+  "plugins": [
+    {
+      "name": "remix",
+      "description": "Comprehensive Remix v3 reference for Claude Code: 14 progressive-disclosure sub-skills covering routing, controllers, data-table, data-schema, auth, sessions, cookies, middleware, forms & uploads, file-storage, UI framework, testing, scaffolding, and migrations. Includes two runnable example apps and Bun-powered scaffolders.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/arijit-gogoi/remix-plugin.git",
+        "ref": "main"
+      },
+      "category": "framework-reference",
+      "keywords": [
+        "remix",
+        "remix-v3",
+        "remix-run",
+        "fullstack",
+        "ssr",
+        "typescript",
+        "data-table",
+        "auth"
+      ],
+      "homepage": "https://github.com/arijit-gogoi/remix-plugin",
+      "license": "MIT",
+      "author": {
+        "name": "Arijit Gogoi",
+        "url": "https://github.com/arijit-gogoi"
+      }
+    }
+  ]
+}
