@@ -18,7 +18,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/arijit-gogoi/remix-plugin.git",
-        "ref": "main"
+        "ref": "v0.1.0"
       },
       "homepage": "https://github.com/arijit-gogoi/remix-plugin"
     }
