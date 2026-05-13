@@ -17,7 +17,7 @@ Then browse and install any of the plugins listed below.
 
 ### [remix](https://github.com/arijit-gogoi/remix-plugin)
 
-A comprehensive Remix v3 reference: 14 progressive-disclosure sub-skills, two runnable example apps, and Bun-powered scaffolders.
+A comprehensive Remix v3 reference: progressive-disclosure sub-skills, two runnable example apps, and Bun-powered scaffolders. Full topic list in the plugin itself.
 
 ```text
 /plugin install remix@ari-marketplace

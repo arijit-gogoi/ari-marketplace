@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "remix",
-      "description": "Comprehensive Remix v3 reference for Claude Code: 14 progressive-disclosure sub-skills covering routing, controllers, data-table, data-schema, auth, sessions, cookies, middleware, forms & uploads, file-storage, UI framework, testing, scaffolding, and migrations. Includes two runnable example apps and Bun-powered scaffolders.",
+      "description": "Comprehensive Remix v3 reference for Claude Code. Progressive-disclosure sub-skills covering every layer of the framework — routing, controllers, database, validation, auth, security, sessions, middleware, forms, UI components, build pipeline, testing, scaffolders, and more. Two runnable example apps. Full topic list in the plugin's own plugin.json.",
       "author": {
         "name": "Arijit Gogoi"
       },
@@ -18,7 +18,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/arijit-gogoi/remix-plugin.git",
-        "ref": "v0.7.0"
+        "ref": "v0.7.1"
       },
       "homepage": "https://github.com/arijit-gogoi/remix-plugin"
     }
