@@ -11,28 +11,16 @@
     {
       "name": "remix",
       "description": "Comprehensive Remix v3 reference for Claude Code: 14 progressive-disclosure sub-skills covering routing, controllers, data-table, data-schema, auth, sessions, cookies, middleware, forms & uploads, file-storage, UI framework, testing, scaffolding, and migrations. Includes two runnable example apps and Bun-powered scaffolders.",
+      "author": {
+        "name": "Arijit Gogoi"
+      },
+      "category": "development",
       "source": {
         "source": "url",
         "url": "https://github.com/arijit-gogoi/remix-plugin.git",
         "ref": "main"
       },
-      "category": "framework-reference",
-      "keywords": [
-        "remix",
-        "remix-v3",
-        "remix-run",
-        "fullstack",
-        "ssr",
-        "typescript",
-        "data-table",
-        "auth"
-      ],
-      "homepage": "https://github.com/arijit-gogoi/remix-plugin",
-      "license": "MIT",
-      "author": {
-        "name": "Arijit Gogoi",
-        "url": "https://github.com/arijit-gogoi"
-      }
+      "homepage": "https://github.com/arijit-gogoi/remix-plugin"
     }
   ]
 }
