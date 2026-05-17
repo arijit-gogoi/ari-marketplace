@@ -21,6 +21,20 @@
         "ref": "v0.10.0"
       },
       "homepage": "https://github.com/arijit-gogoi/remix-plugin"
+    },
+    {
+      "name": "electrobun",
+      "description": "Complete Electrobun skill for Claude Code. Main SKILL.md + 9 sub-skills (scaffold, views, ipc-rpc, build-dist, updater, webgpu, system-integration, architecture, zig-main). Source-grounded against upstream blackboardsh/electrobun; each sub-skill cites file:line and names its Electron analog inline. Live deepwiki + context7 fallback for anything not in cached refs.",
+      "author": {
+        "name": "Arijit Gogoi"
+      },
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/arijit-gogoi/electrobun-plugin.git",
+        "ref": "v0.1.0"
+      },
+      "homepage": "https://github.com/arijit-gogoi/electrobun-plugin"
     }
   ]
 }
