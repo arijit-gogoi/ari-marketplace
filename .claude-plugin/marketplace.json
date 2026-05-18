@@ -24,7 +24,7 @@
     },
     {
       "name": "electrobun",
-      "description": "Complete Electrobun skill for Claude Code. Main SKILL.md + 9 sub-skills (scaffold, views, ipc-rpc, build-dist, updater, webgpu, system-integration, architecture, zig-main). Source-grounded against upstream blackboardsh/electrobun; each sub-skill cites file:line and names its Electron analog inline. Live deepwiki + context7 fallback for anything not in cached refs.",
+      "description": "Complete Electrobun toolkit for Claude Code: skill + embedded MCP server. Main SKILL.md + 9 sub-skills (scaffold, views, ipc-rpc, build-dist, updater, webgpu, system-integration, architecture, zig-main). Plus 16 MCP tools to drive your running app — 9 CDP tools for webview (list views, eval, navigate, reload, screenshot, dom, console, network, devtools) and 7 bridge tools for bun-side (list windows, rpc log, ffi log, bun_eval [gated], updater state, app log, native log [Windows]). Bridge requires `bun add -d electrobun-devtools` in your app. Source-grounded against upstream blackboardsh/electrobun with live deepwiki + context7 fallback.",
       "author": {
         "name": "Arijit Gogoi"
       },
@@ -32,7 +32,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/arijit-gogoi/electrobun-plugin.git",
-        "ref": "v0.1.0"
+        "ref": "v0.2.0"
       },
       "homepage": "https://github.com/arijit-gogoi/electrobun-plugin"
     }
