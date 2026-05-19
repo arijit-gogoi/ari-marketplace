@@ -32,7 +32,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/arijit-gogoi/electrobun-plugin.git",
-        "ref": "v0.2.2"
+        "ref": "v0.2.3"
       },
       "homepage": "https://github.com/arijit-gogoi/electrobun-plugin"
     }
